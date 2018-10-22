@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "Ivan Pendjakov Travel the World",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -36,7 +36,11 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 64,
     "versionPublish": "4.8.6",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/img-1270-128x85.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {

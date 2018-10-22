@@ -32,7 +32,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 57,
+    "uniqCompNum": 63,
     "versionPublish": "4.8.6",
     "screenshot": "screenshot.png"
   },
@@ -40,7 +40,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Ivan Pendjakov Travel the World",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -1458,11 +1458,11 @@
         }
       ]
     },
-    "page1.html": {
+    ".html": {
       "settings": {
         "meta_descr": "",
         "title": "Bulgaria",
-        "order": 1
+        "order": 2
       },
       "components": []
     }

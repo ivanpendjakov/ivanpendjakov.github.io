@@ -1461,8 +1461,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-5797-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-5797-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-5798-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5798-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -1532,6 +1532,32 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<b>Morocco</b>",
+                "active": false
+              },
+              {
+                "tags": "Анимиран",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-79-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-79-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "<b>Netherlands</b>",
+                "active": false
+              },
+              {
+                "tags": "Анимиран",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-237-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-237-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "<b>Poland</b>",
                 "active": true
               }
             ]

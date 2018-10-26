@@ -1565,8 +1565,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-3603-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-3603-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3452-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3452-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -1610,7 +1610,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<b>Russia</b>",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Анимиран",
@@ -1643,8 +1643,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-9688-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-9688-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-9689-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9689-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -1689,6 +1689,58 @@
                 "customStyle1": "display-7",
                 "caption": "<b>Spain</b>",
                 "active": false
+              },
+              {
+                "tags": "Анимиран",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-9457-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9457-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "<b>Sweden</b>",
+                "active": false
+              },
+              {
+                "tags": "Анимиран",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-8927-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8927-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "<b>Thailand</b>",
+                "active": false
+              },
+              {
+                "tags": "Анимиран",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-5436-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5436-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "<b>Tunisia</b>",
+                "active": false
+              },
+              {
+                "tags": "Анимиран",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-2351-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2351-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "<b>Turkey</b>",
+                "active": true
               }
             ]
           }

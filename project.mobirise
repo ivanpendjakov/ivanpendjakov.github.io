@@ -36,7 +36,7 @@
     "versionPublish": "4.8.6",
     "favicon": "@PROJECT_PATH@/assets/images/img-1270-128x85-3.png",
     "noImageResize": "",
-    "google-analytics": "google7dd73f404cd59858.html",
+    "google-analytics": "UA-130511251-1",
     "siteUrl": "https://ivanpendjakov.github.io/",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",

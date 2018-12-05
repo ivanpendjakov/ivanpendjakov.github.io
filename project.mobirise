@@ -36,7 +36,7 @@
     "versionPublish": "4.8.6",
     "favicon": "@PROJECT_PATH@/assets/images/img-1270-128x85-3.png",
     "noImageResize": "",
-    "google-analytics": "",
+    "google-analytics": "google7dd73f404cd59858.html",
     "siteUrl": "https://ivanpendjakov.github.io/",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -979,7 +979,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-9252-2000x1333.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -1013,7 +1013,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-7150-2000x1333.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -1027,6 +1027,23 @@
                 "contentAlign": "right",
                 "text": "Изберете от широка палитра готови блокове - големи зглавия, ефектни картинки, паралакс скрол, видео фонове, мобилно меню, фиксирана навигация и много други",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">ЗА WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">ЗА MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-1270-2000x1333.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "СЛАЪДЕР НА ЦЯЛ ЕКРАН",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Изберете от широка палитра готови блокове - големи зглавия, ефектни картинки, паралакс скрол, видео фонове, мобилно меню, фиксирана навигация и много други",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a> "
               }
             ]
           }

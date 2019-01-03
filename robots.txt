@@ -1,2 +1,4 @@
-Sitemap: https://ivanpendjakov.github.io/
+https://ivanpendjakov.github.io/
+
+
 

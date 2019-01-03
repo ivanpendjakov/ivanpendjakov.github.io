@@ -39,7 +39,7 @@
     "google-analytics": "",
     "siteUrl": "https://ivanpendjakov.github.io/",
     "screenshot": "screenshot.png",
-    "robotsText": "Sitemap: https://ivanpendjakov.github.io/\n\n",
+    "robotsText": "https://ivanpendjakov.github.io/\n\n\n\n",
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on"

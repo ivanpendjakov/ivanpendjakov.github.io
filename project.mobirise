@@ -333,7 +333,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/img-1270-2000x1333.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -520,7 +520,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-1554-2000x1333.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,

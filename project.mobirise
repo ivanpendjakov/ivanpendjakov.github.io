@@ -33,7 +33,7 @@
     "siteFonts": [],
     "versionFirst": "4.7.6",
     "uniqCompNum": 14,
-    "versionPublish": "4.9.6",
+    "versionPublish": "4.10.2",
     "favicon": "@PROJECT_PATH@/assets/images/img-1270-128x85-3.png",
     "noImageResize": "",
     "google-analytics": "",
@@ -1712,7 +1712,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<b>Panama</b>",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Анимиран",
@@ -1862,13 +1862,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-9457-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-9457-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-9458-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9458-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<b>Sweden</b>",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Анимиран",

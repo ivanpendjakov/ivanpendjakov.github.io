@@ -1,4 +1,4 @@
-ivanpendjakov.github.io,txt
+ivanpendjakov.github.io.robots.txt
 
 
 

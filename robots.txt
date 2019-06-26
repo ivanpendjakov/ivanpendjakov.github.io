@@ -1,4 +1,5 @@
-ivanpendjakov.github.io.robot.txt
+https://ivanpendjakov.github.io/robots.txt
+
 
 
 

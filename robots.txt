@@ -1,5 +1,6 @@
 https://ivanpendjakov.github.io/robots.txt
-
+User-agent: *
+Disallow:
 
 
 

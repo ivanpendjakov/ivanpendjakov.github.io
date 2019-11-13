@@ -33,7 +33,7 @@
     "siteFonts": [],
     "versionFirst": "4.7.6",
     "uniqCompNum": 14,
-    "versionPublish": "4.10.4",
+    "versionPublish": "4.11.5",
     "favicon": "@PROJECT_PATH@/assets/images/img-1270-128x85-3.png",
     "noImageResize": "",
     "google-analytics": "",
@@ -333,7 +333,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/img-1270-2000x1333.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -1012,6 +1012,23 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">ЗА WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">ЗА MAC</a>"
               },
               {
+                "image": "@PROJECT_PATH@/assets/images/img-1794-2000x1333.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "ИЗОБРАЖНИЕ",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Изберете от широка палитра готови блокове - големи зглавия, ефектни картинки, паралакс скрол, видео фонове, мобилно меню, фиксирана навигация и много други",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">ЗА WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">ЗА MAC</a>"
+              },
+              {
                 "image": "@PROJECT_PATH@/assets/images/img-4802-2000x1333.jpg",
                 "active": false,
                 "showButtons": false,
@@ -1550,19 +1567,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-4767-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-4767-2000x1333-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "<b>Kosovo</b>",
-                "active": false
-              },
-              {
-                "tags": "Анимиран",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/img-7581-2000x1333.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-7581-2000x1333-800x533.jpg",
                 "alt": "",
@@ -1687,6 +1691,19 @@
                 "customStyle1": "display-7",
                 "caption": "<b>North Macedonia</b>",
                 "active": false
+              },
+              {
+                "tags": "Анимиран",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-3400-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3400-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "<b>Norway</b>",
+                "active": true
               },
               {
                 "tags": "Анимиран",
@@ -1868,7 +1885,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<b>Sweden</b>",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Анимиран",

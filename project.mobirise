@@ -35,14 +35,18 @@
     "uniqCompNum": 14,
     "versionPublish": "4.11.5",
     "favicon": "@PROJECT_PATH@/assets/images/img-1270-128x85-3.png",
-    "noImageResize": "",
+    "noImageResize": true,
     "google-analytics": "",
     "siteUrl": "https://ivanpendjakov.github.io/",
     "screenshot": "screenshot.png",
     "robotsText": "https://ivanpendjakov.github.io/robots.txt\n\n\n\n\n\n\n\n\n\n\n",
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "modified": "2020-01-26T18:09:44.102Z",
+    "": "vhig3iheg3",
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
@@ -52,7 +56,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/img-7227-2000x1333.jpg"
       },
       "components": [
         {

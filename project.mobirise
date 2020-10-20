@@ -30,12 +30,18 @@
       "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
-    "siteFonts": [],
+    "siteFonts": [
+      {
+        "css": "'Rubik', sans-serif",
+        "name": "Rubik",
+        "url": "https://fonts.googleapis.com/css?family=Rubik:300,400,500,600,700,800,900,300i,400i,500i,600i,700i,800i,900i"
+      }
+    ],
     "versionFirst": "4.7.6",
     "uniqCompNum": 14,
-    "versionPublish": "4.11.5",
+    "versionPublish": "5.2.0",
     "favicon": "@PROJECT_PATH@/assets/images/img-1270-128x85-3.png",
-    "noImageResize": true,
+    "noImageResize": null,
     "google-analytics": "",
     "siteUrl": "https://ivanpendjakov.github.io/",
     "screenshot": "screenshot.png",
@@ -46,7 +52,8 @@
     "modified": "2020-01-26T18:09:44.102Z",
     "": "vhig3iheg3",
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "imageResize": false
   },
   "pages": {
     "index.html": {
@@ -1632,6 +1639,19 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-7541.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7541-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Liechtenstein",
+                "active": false
+              },
+              {
+                "tags": "Анимиран",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/img-5798-2000x1333.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-5798-2000x1333-800x533.jpg",
                 "alt": "",
@@ -1937,6 +1957,19 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<b>Sweden</b>",
+                "active": false
+              },
+              {
+                "tags": "Анимиран",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-6984.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-6984-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "<b>Switzerland</b>",
                 "active": false
               },
               {

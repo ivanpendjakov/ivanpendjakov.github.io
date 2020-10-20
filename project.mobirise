@@ -339,7 +339,7 @@
           "_global": false,
           "_once": false,
           "_params": {
-            "slides__autoplay": true,
+            "slides__autoplay": "true",
             "slides__autoplayInterval": 4000,
             "slides__showBullets": true,
             "slides": [

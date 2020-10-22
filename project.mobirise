@@ -1483,13 +1483,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-6336-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-6336-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-6336.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-6336-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<b>France</b>",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Анимиран",
@@ -2074,7 +2074,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<b>Vietnam</b>",
-                "active": true
+                "active": false
               }
             ]
           }

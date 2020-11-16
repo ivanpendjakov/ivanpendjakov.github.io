@@ -1298,6 +1298,19 @@
                 "active": false
               },
               {
+                "tags": "Анимиран",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-7094-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7094-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "<b>Bahrain</b>",
+                "active": false
+              },
+              {
                 "tags": "Криейтив",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -1321,19 +1334,6 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<b>Bosnia and Herzegovina</b>",
-                "active": false
-              },
-              {
-                "tags": "Анимиран",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-7094-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-7094-2000x1333-800x533.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "<b>Bahrain</b>",
                 "active": false
               },
               {
@@ -1380,12 +1380,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-8189-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-8189-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-4363-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-4363-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Cuba</b>",
+                "caption": "<b>Croatia</b>",
                 "active": false
               },
               {
@@ -1393,12 +1393,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-4363-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-4363-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-8189-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8189-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Croatia</b>",
+                "caption": "<b>Cuba</b>",
                 "active": false
               },
               {

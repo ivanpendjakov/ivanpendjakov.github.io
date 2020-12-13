@@ -1640,8 +1640,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-7541.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-7541-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7542.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7542-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -1711,7 +1711,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<b>Monaco</b>",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Анимиран",
@@ -1965,13 +1965,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-6984.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-6984-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-6985.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-6985-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<b>Switzerland</b>",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Анимиран",

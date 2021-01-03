@@ -346,7 +346,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/img-1270-2000x1333.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -601,7 +601,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-4960.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -1384,8 +1384,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-7045-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-7045-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7045.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7045-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -1605,8 +1605,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-3436-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-3436-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3436.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3436-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -1670,8 +1670,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-5798-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-5798-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-5797.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5797-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -1728,7 +1728,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<b>Monaco</b>",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Анимиран",
@@ -1943,13 +1943,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-2686-2000x1333.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-2686-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2686.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2686-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<b>South Korea</b>",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Анимиран",

@@ -345,7 +345,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/img-1270-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-1270.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -465,7 +465,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-2563.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -498,7 +498,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">ЗА WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">ЗА MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-778-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-778.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -515,7 +515,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">ЗА WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">ЗА MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-4870-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-4870.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -532,7 +532,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">ЗА WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">ЗА MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-7223-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7223.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -566,8 +566,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">ЗА WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">ЗА MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-7861-2000x1333.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-7861.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,

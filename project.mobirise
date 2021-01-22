@@ -1707,13 +1707,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-3436.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-3436-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3437.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3437-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<b>Japan</b>",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Анимиран",
@@ -1791,7 +1791,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<b>Malaysia</b>",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Анимиран",

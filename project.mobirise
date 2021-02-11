@@ -54,7 +54,7 @@
     "cookiesAlert": false,
     "gdpr": false,
     "imageResize": false,
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {

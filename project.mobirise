@@ -42,7 +42,7 @@
     "versionPublish": "5.2.0",
     "favicon": "@PROJECT_PATH@/assets/images/img-1270-128x85.png",
     "noImageResize": null,
-    "google-analytics": "",
+    "google-analytics": "<meta name=\"google-site-verification\" content=\"EzXix4B-ecmI_bnmLfWuyLqrTLCMPLqkTgkucu78VjA\" />",
     "siteUrl": "https://ivanpendjakov.github.io/",
     "screenshot": "screenshot.png",
     "robotsText": "https://ivanpendjakov.github.io/robots.txt\n\n\n\n\n\n\n\n\n\n\n",
@@ -668,6 +668,23 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">ЗА WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">ЗА MAC</a>"
               },
               {
+                "image": "@PROJECT_PATH@/assets/images/img-8004.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "СЛАЪДЕР НА ЦЯЛ ЕКРАН",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Изберете от широка палитра готови блокове - големи зглавия, ефектни картинки, паралакс скрол, видео фонове, мобилно меню, фиксирана навигация и много други",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a> "
+              },
+              {
                 "image": "@PROJECT_PATH@/assets/images/img-6289.jpg",
                 "active": false,
                 "showButtons": false,
@@ -770,7 +787,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">ЗА WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">ЗА MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-8004.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-4245-2000x1333.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -780,11 +797,11 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "СЛАЪДЕР НА ЦЯЛ ЕКРАН",
+                "title": "ИЗОБРАЖНИЕ",
                 "overlay": false,
-                "contentAlign": "center",
+                "contentAlign": "right",
                 "text": "Изберете от широка палитра готови блокове - големи зглавия, ефектни картинки, паралакс скрол, видео фонове, мобилно меню, фиксирана навигация и много други",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">ЗА WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">ЗА MAC</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-1882.jpg",
@@ -1195,6 +1212,23 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">ЗА WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">ЗА MAC</a>"
               },
               {
+                "image": "@PROJECT_PATH@/assets/images/img-9253.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "ИЗОБРАЖНИЕ",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "Изберете от широка палитра готови блокове - големи зглавия, ефектни картинки, паралакс скрол, видео фонове, мобилно меню, фиксирана навигация и много други",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">ЗА WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">ЗА MAC</a>"
+              },
+              {
                 "image": "@PROJECT_PATH@/assets/images/img-197.jpg",
                 "active": false,
                 "showButtons": false,
@@ -1213,23 +1247,6 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-4803.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "title": "ИЗОБРАЖНИЕ",
-                "overlay": false,
-                "contentAlign": "right",
-                "text": "Изберете от широка палитра готови блокове - големи зглавия, ефектни картинки, паралакс скрол, видео фонове, мобилно меню, фиксирана навигация и много други",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">ЗА WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">ЗА MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-9253.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -1809,13 +1826,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-3176.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-3176-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3176-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3176-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<b>Japan</b>",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Анимиран",
@@ -1893,7 +1910,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<b>Malaysia</b>",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Анимиран",

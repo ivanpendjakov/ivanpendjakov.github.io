@@ -1905,7 +1905,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Kosovo*</b>",
+                "caption": "<b>Kosovo**</b>",
                 "active": false
               },
               {
@@ -2373,7 +2373,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Vatican City</b>",
+                "caption": "<b>Vatican City*</b>",
                 "active": false
               },
               {

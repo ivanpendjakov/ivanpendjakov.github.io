@@ -1026,23 +1026,6 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">ЗА WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">ЗА MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-5923-1800x1200.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "title": "СЛАЪДЕР НА ЦЯЛ ЕКРАН",
-                "overlay": false,
-                "contentAlign": "center",
-                "text": "Изберете от широка палитра готови блокове - големи зглавия, ефектни картинки, паралакс скрол, видео фонове, мобилно меню, фиксирана навигация и много други",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a> "
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/img-4733.jpg",
                 "active": false,
                 "showButtons": false,
@@ -1075,6 +1058,23 @@
                 "contentAlign": "right",
                 "text": "Изберете от широка палитра готови блокове - големи зглавия, ефектни картинки, паралакс скрол, видео фонове, мобилно меню, фиксирана навигация и много други",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">ЗА WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">ЗА MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-5909-1800x1200.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "СЛАЪДЕР НА ЦЯЛ ЕКРАН",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Изберете от широка палитра готови блокове - големи зглавия, ефектни картинки, паралакс скрол, видео фонове, мобилно меню, фиксирана навигация и много други",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-6984-2000x1333.jpg",
@@ -2220,13 +2220,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-5909-1200x800.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-5909-1200x800-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-5923-1200x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5923-1200x800-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<b>Saudi Arabia</b>",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Анимиран",
@@ -2434,7 +2434,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<b>Vietnam</b>",
-                "active": true
+                "active": false
               }
             ]
           }

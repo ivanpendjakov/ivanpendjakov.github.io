@@ -39,7 +39,7 @@
     ],
     "versionFirst": "4.7.6",
     "uniqCompNum": 14,
-    "versionPublish": "5.6.13",
+    "versionPublish": "5.8.4",
     "favicon": "@PROJECT_PATH@/assets/images/img-1270-128x85.png",
     "noImageResize": null,
     "google-analytics": "<meta name=\"google-site-verification\" content=\"EzXix4B-ecmI_bnmLfWuyLqrTLCMPLqkTgkucu78VjA\" />",
@@ -1623,6 +1623,19 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<b>Albania</b>",
+                "active": true
+              },
+              {
+                "tags": "Анимиран",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-525-1200x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-525-1200x800-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "<b>Armenia</b>",
                 "active": false
               },
               {
@@ -2506,7 +2519,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>USA</b>",
+                "caption": "<b>United States</b>",
                 "active": false
               },
               {
@@ -2533,7 +2546,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<b>Vietnam</b>",
-                "active": true
+                "active": false
               }
             ]
           }

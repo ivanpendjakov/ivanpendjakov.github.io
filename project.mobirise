@@ -38,8 +38,8 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 14,
-    "versionPublish": "5.8.4",
+    "uniqCompNum": 20,
+    "versionPublish": "5.8.14",
     "favicon": "@PROJECT_PATH@/assets/images/img-1270-128x85.png",
     "noImageResize": null,
     "google-analytics": "<meta name=\"google-site-verification\" content=\"EzXix4B-ecmI_bnmLfWuyLqrTLCMPLqkTgkucu78VjA\" />",
@@ -55,7 +55,8 @@
     "gdpr": false,
     "imageResize": true,
     "publishChangesOnly": true,
-    "mbrsiteDomain": "ivanpendjakov"
+    "mbrsiteDomain": "ivanpendjakov",
+    "usedWebp": false
   },
   "pages": {
     "index.html": {
@@ -431,6 +432,23 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">ЗА WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">ЗА MAC</a>"
               },
               {
+                "image": "@PROJECT_PATH@/assets/images/img-3432-1800x1200.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "Видео слайд",
+                "overlay": false,
+                "contentAlign": "left",
+                "text": "YouTube видео фон и полупрозрачен фон. Заглавието и текстът са подравнени вляво.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">ЗА WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">ЗА MAC</a>"
+              },
+              {
                 "image": "@PROJECT_PATH@/assets/images/img-451.jpg",
                 "active": false,
                 "showButtons": false,
@@ -701,6 +719,23 @@
                 "contentAlign": "right",
                 "text": "Изберете от широка палитра готови блокове - големи зглавия, ефектни картинки, паралакс скрол, видео фонове, мобилно меню, фиксирана навигация и много други",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">ЗА WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">ЗА MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-3159-1800x1200.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "СЛАЪДЕР НА ЦЯЛ ЕКРАН",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Изберете от широка палитра готови блокове - големи зглавия, ефектни картинки, паралакс скрол, видео фонове, мобилно меню, фиксирана навигация и много други",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-552-1800x1200.jpg",
@@ -1623,6 +1658,19 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<b>Albania</b>",
+                "active": true
+              },
+              {
+                "tags": "Анимиран",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-2983-1200x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2983-1200x800-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "<b>Argentina</b>",
                 "active": false
               },
               {
@@ -1636,7 +1684,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<b>Armenia</b>",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Респонсив",
@@ -1688,6 +1736,19 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<b>Bosnia and Herzegovina</b>",
+                "active": false
+              },
+              {
+                "tags": "Анимиран",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-3425-1200x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3425-1200x800-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "<b>Brazil</b>",
                 "active": false
               },
               {

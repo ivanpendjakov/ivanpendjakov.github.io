@@ -348,7 +348,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/img-1270-1800x1200.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -1078,8 +1078,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">ЗА WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">ЗА MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-1838-1800x1200.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-1839-1800x1200.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,

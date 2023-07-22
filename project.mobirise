@@ -432,7 +432,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">ЗА WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">ЗА MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-3433-1800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3424-1800x1200.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -1692,7 +1692,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<b>Albania</b>",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Анимиран",
@@ -1777,13 +1777,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-3426-1200x800.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-3426-1200x800-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3427-1200x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3427-1200x800-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<b>Brazil</b>",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Внушително",

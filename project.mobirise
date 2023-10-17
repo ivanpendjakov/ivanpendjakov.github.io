@@ -1768,6 +1768,19 @@
                 "active": false
               },
               {
+                "tags": "Внушително",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-9958-1200x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9958-1200x800-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "<b>Azarbajan</b>",
+                "active": false
+              },
+              {
                 "tags": "Анимиран",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -2145,6 +2158,19 @@
                 "active": false
               },
               {
+                "tags": "Внушително",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-235-1200x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-235-1200x800-800x533.jpg",
+                "alt": "Kazakhstan",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Kazakhstan",
+                "active": false
+              },
+              {
                 "tags": "Анимиран",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -2168,6 +2194,19 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<b>Kuwait</b>",
+                "active": false
+              },
+              {
+                "tags": "Внушително",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-317-1200x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-317-1200x800-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "<b>Kyrgyzstan</b>",
                 "active": false
               },
               {

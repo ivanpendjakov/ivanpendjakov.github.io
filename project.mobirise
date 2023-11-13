@@ -1811,7 +1811,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<b>Azarbajan</b>",
+                "caption": "<b>Azerbaijan</b>",
                 "active": false
               },
               {
@@ -2332,6 +2332,19 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<b>Mexico</b>",
+                "active": false
+              },
+              {
+                "tags": "Внушително",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/img-1699-1200x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1699-1200x800-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "<b>Moldova</b>",
                 "active": false
               },
               {

@@ -1771,13 +1771,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-3837-1200x800.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-3837-1200x800-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-6941-1200x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-6941-1200x800-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<b>Albania</b>",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Анимиран",
@@ -2408,13 +2408,13 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/img-3836-1200x800.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-3836-1200x800-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3837-1200x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3837-1200x800-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<b>Namibia</b>",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Анимиран",
